@@ -16,4 +16,5 @@
 
 
 ## 2. 설정을 다하였고 패스워드를 1234로 입력하였는데 실패 하여 더이상 실습할 수 없습니다.
-![image](https://user-images.githubusercontent.com/30167661/93469894-18501480-f92c-11ea-9e05-7f8ea313798b.png)
+![image](https://user-images.githubusercontent.com/30167661/93470427-dffd0600-f92c-11ea-8617-2bd42d349b0d.png)
+
